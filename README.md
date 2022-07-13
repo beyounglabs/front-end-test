@@ -13,6 +13,7 @@ O objetivo aqui é que você possa mostrar as suas habilidades, mas alguns ponto
 - Domínio de Javascript/Typescript;
 - Familiaridade com consumo de APIs;
 - Padrão e qualidade de código;
+- Responsividade;
 - Testes;
 
 ### <u>Base para o layout</u>
