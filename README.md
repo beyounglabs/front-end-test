@@ -4,7 +4,7 @@
 
 A idéia é que seja um teste simples, onde você deverá dar continuidade à uma interface de acompanhamento de pedidos.
 
-O projeto já tem uma tela que mostra os pedidos e o seu trabalho é criar uma exibição para os detalhes de cada pedido, com base no layout fornecido. Sinta-se à vontade para alterar o layout de acordo com o que você considera a melhor experiência/visual.
+O projeto já tem uma tela que mostra os pedidos e o seu trabalho é criar uma exibição para os detalhes de cada pedido, com base no layout fornecido. Sinta-se à vontade para alterar o layout de acordo com o que você considera a melhor experiência/visual mas é necessário manter a régua de status.
 
 O objetivo aqui é que você possa mostrar as suas habilidades, mas alguns pontos serão importantes na avaliação:
 
